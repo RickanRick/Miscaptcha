@@ -17,4 +17,10 @@ git clone https://github.com/RickanRick/Miscaptcha.git
 3- Start application
 <code>flask run --host <localhost> --port <port-number></code>
  <br>
+ 
+###Username and Password
+ <code>username: test</code>
+ <br>
+ <code>password: test</code>
+ <br>
 Have fun :)
