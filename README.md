@@ -4,7 +4,7 @@ A misconfigurated login application for testing captcha flaws with flask framewo
 ## Installation
 1- Clone the miscaptcha files to your computer and go Miscaptcha file. 
 <br><code>
- git clone https://github.com/RickanRick/Miscaptcha/
+git clone https://github.com/RickanRick/Miscaptcha.git
 </code>
 <br>
 <code>
