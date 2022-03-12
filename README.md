@@ -3,17 +3,18 @@ A misconfigurated login application for testing captcha flaws with flask framewo
 
 ## Installation
 1- Clone the miscaptcha files to your computer and go Miscaptcha file. 
-<code>
+<br><code>
  git clone https://github.com/RickanRick/Miscaptcha/
 </code>
 <br>
 <code>
  cd Miscaptcha
  </code>
+ <br>
 2- Upload the requirements.
--pip3 install -r requirements.txt
-
+<code>pip3 install -r requirements.txt</code>
+<br>
 3- Start application
--flask run --host <localhost> --port <port-number>
- 
+<code>flask run --host <localhost> --port <port-number></code>
+ <br>
 Have fun :)
